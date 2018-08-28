@@ -24,7 +24,7 @@ The goals / steps of this project are the following:
 [image5]: ./traffic-signs-data/test/image5.jpg "Traffic Sign 5"
 [image6]: ./traffic-signs-data/test/image6.jpg "Traffic Sign 6"
 [image7]: ./traffic-signs-data/test/image7.jpg "Traffic Sign 7"
-
+[image8]: ./traffic-signs-data/test/image8.png "Traffic Sign 7"
 ### Rubric Points ###   
 
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
@@ -56,7 +56,7 @@ signs data set:
 
 Here is an exploratory visualization of the data set using Matplotlib and pandas plot. It is a bar chart plotting traffic sign images and the count of each sign.
 
-![alt text][image8]
+![][image8]
 
 ### Design and Test a Model Architecture ### 
 
